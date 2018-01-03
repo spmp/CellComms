@@ -1,0 +1,27 @@
+{
+  "name": "CellComms",
+  "keywords": "BMS, CellComms, ",
+  "description": "Cell Top Module (CTM) master controller communication class for recieving information from OSBMS CTM's.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/spmp/CellComms.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Jasper Mackenzie",
+      "email": "jasper.mackenzie@gmail.com",
+      "maintainer": true
+    }
+  ],
+  "dependencies":
+  {
+    "name": "FEC",
+    "authors": "Jasper Mackenzie",
+    "frameworks": "arduino"
+  },
+  "version": "0.1.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
